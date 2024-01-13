@@ -1,0 +1,1 @@
+print("pi with 8 decimals: 3,1415926")
